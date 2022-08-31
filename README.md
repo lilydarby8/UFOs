@@ -8,7 +8,10 @@ Interacting with the webpage is simple. Users can decide if they want to use all
 - First enter in a date using the format :1/1/2010. Once you press the enter key the data will be updated to show the results with the correct filter applied.
 - Secondly if you’d like to apply a filter in addition to the first filter then you can move down the line. Each filter has an example for how to input the filter correctly. Once you press enter it with apply.
 - Lastly if you need to clear the filters and start over you would just have to refresh the webpage on the top left corner next to the webpage link.
+- 
 ![Filter](https://user-images.githubusercontent.com/106783452/187577384-46f5d856-78cd-4adb-aed2-aa026c665bb1.png)
+
+
 
 
 ## Ufos Sighting Summary
